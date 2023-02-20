@@ -1,2 +1,2 @@
-# nerva_stub
+# Nerva
 Stub for the Nerva package
